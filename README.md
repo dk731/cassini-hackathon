@@ -1,5 +1,5 @@
 # 💎 Idea
-SpaceBlock addresses the critical issue of data authenticity in satellite imagery used for major environmental decisions. Our solution tackles the problem of potential manipulation or bias from single-source satellite data, which can significantly impact policies affecting millions of people and billions in resources. 
+SpaceBlock ([https://spaceblock.eu](https://spaceblock.eu)) addresses the critical issue of data authenticity in satellite imagery used for major environmental decisions. Our solution tackles the problem of potential manipulation or bias from single-source satellite data, which can significantly impact policies affecting millions of people and billions in resources. 
 
 SpaceBlock ensures data integrity through a transparent, blockchain-based system that aggregates and verifies satellite imagery from multiple independent sources. By leveraging AI algorithms and decentralized technologies, we provide a trustworthy foundation for crucial environmental monitoring and policy-making.
 
