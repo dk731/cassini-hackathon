@@ -1,3 +1,5 @@
+![](./project-structure.png "")
+
 # 💎 Idea
 SpaceBlock ([https://spaceblock.eu](https://spaceblock.eu)) addresses the critical issue of data authenticity in satellite imagery used for major environmental decisions. Our solution tackles the problem of potential manipulation or bias from single-source satellite data, which can significantly impact policies affecting millions of people and billions in resources. 
 
@@ -9,7 +11,7 @@ Our project utilizes satellite imagery and data from multiple providers, includi
 # 🌍 Space for Environment & Green Transition 
 SpaceBlock primarily addresses Challenge #1: Carbon footprint reporting, with a focus on carbon credit fraud detection and improving reporting & certifications. By ensuring the authenticity and consensus of satellite data, we contribute to more accurate carbon credit verification and robust environmental reporting systems. This approach helps combat fraud in carbon markets and enhances the credibility of environmental certifications, supporting the global transition to a greener economy.
 
-🤼 Team
+# 🤼 Team
 
 - Tom: PhD student in Aeronautical Engineering, Data Scientist. Space enthusiast with a passion for the aeronautical sphere, adept at analyzing big datasets to derive meaningful insights for environmental monitoring.
 - Nalinkumar: Master's student in Mechanical Engineering, Research Analyst. Sustainability enthusiast skilled in designing efficient, sustainable systems, bringing a holistic engineering perspective to environmental solutions.
