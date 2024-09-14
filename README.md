@@ -13,8 +13,8 @@ SpaceBlock primarily addresses Challenge #1: Carbon footprint reporting, with a 
 
 # 🤼 Team
 
-- Tom: PhD student in Aeronautical Engineering, Data Scientist. Space enthusiast with a passion for the aeronautical sphere, adept at analyzing big datasets to derive meaningful insights for environmental monitoring.
-- Nalinkumar: Master's student in Mechanical Engineering, Research Analyst. Sustainability enthusiast skilled in designing efficient, sustainable systems, bringing a holistic engineering perspective to environmental solutions.
-- Vladislav: Bachelor’s degree in Computer Science, Coder, Fullstack Engineer. Passionate problem-solver specializing in intuitive user interfaces and innovative solutions, committed to continuous learning in emerging technologies.
-- Danila: Math Expert, Data Scientist. Analytical thinker with a passion for complex problem-solving, data analysis, and applying strategic insights from stock market trading to environmental challenges.
-- Demid: Coder, Fullstack Engineer, Blockchain Expert. Space industry enthusiast with expertise in electrical design, focused on tackling hard problems with creative blockchain solutions.
+- **Tom**: PhD student in Aeronautical Engineering, Data Scientist. Space enthusiast with a passion for the aeronautical sphere, adept at analyzing big datasets to derive meaningful insights for environmental monitoring.
+- **Nalinkumar**: Master's student in Mechanical Engineering, Research Analyst. Sustainability enthusiast skilled in designing efficient, sustainable systems, bringing a holistic engineering perspective to environmental solutions.
+- **Vladislav**: Bachelor’s degree in Computer Science, Coder, Fullstack Engineer. Passionate problem-solver specializing in intuitive user interfaces and innovative solutions, committed to continuous learning in emerging technologies.
+- **Danila**: Math Expert, Data Scientist. Analytical thinker with a passion for complex problem-solving, data analysis, and applying strategic insights from stock market trading to environmental challenges.
+- **Demid**: Coder, Fullstack Engineer, Blockchain Expert. Space industry enthusiast with expertise in electrical design, focused on tackling hard problems with creative blockchain solutions.
